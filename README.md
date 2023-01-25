@@ -20,6 +20,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entropy Calculation, Information Gain &amp; Decision Tree Learning](https://medium.com/analytics-vidhya/entropy-calculation-information-gain-decision-tree-learning-771325d16f?source=rss-2c223e041f5b------2)
+- [Data-Path Explained](https://medium.com/nsuacmsc/data-path-explained-2f4de926446b?source=rss-2c223e041f5b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
