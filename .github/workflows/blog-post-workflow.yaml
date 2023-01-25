@@ -10,10 +10,10 @@ jobs:
         steps: 
             - uses: actions/checkout@v2
               with:
-                token: ${{ secret.GH_TOKEN }}
+                token: ${{ secrets.GH_TOKEN }}
             - uses: gautamkrishnar/blog-post-workflow@master
               env:
-                GITHUB_TOKEN: ${{ secret.GH_TOKEN }}
+                GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
               with:
                 comment_tag_name: BLOG-POST-LIST
                 max_post_count: "4"
