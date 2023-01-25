@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog posts
 on:
     push:
         branches:
@@ -11,7 +11,7 @@ jobs:
         name: Latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v3
               with:
                 token: ${{ secrets.GH_TOKEN }}
             - uses: gautamkrishnar/blog-post-workflow@master
