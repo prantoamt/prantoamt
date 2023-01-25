@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Md Badiuzzaman Pranto</h1>
 <h3 align="center">A passionate software developer and Artificial Intelligence enthusiastic </h3>
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prantoamt&label=Profile%20views&color=0e75b6&style=flat" alt="prantoamt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantoamt" alt="prantoamt" /></a> </p>
