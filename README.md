@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 📝 I regularly write articles on [https://medium.com/@prantoamt](https://medium.com/@prantoamt)
+- 📝 I write articles on [https://medium.com/@prantoamt](https://medium.com/@prantoamt)
 
 - 💬 Ask me about **Software Engineering and Artificial Intelligence**
 
