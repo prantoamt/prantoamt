@@ -6,9 +6,9 @@
   <li>🎓 I’m currently studing <b>Artificial Intelligence and working part-time with <a href="https://www.7q1.de/" target="blank">7Q1</a> </b>.</li>
   <li>💬 Ask me about <b>Software Engineering and Artificial Intelligence</b>.</li>
   <li>📫 Reach me: prantoamt@gmail.com.</li>
-  <li>📄 Know about my works <a href="https://prantoamt.github.io/" target="_blank">here</a>.</li>
+  <li>📄 Know about my works <a href="https://prantoamt.github.io/" target="blank">here</a>.</li>
   <li>⚡ Fun fact - I like to sleep because I don't want to give up my dreams.</li>
-  <li>📝 I write articles on <a href="https://www.7q1.de/" target="_blank">Medium</a>.</li>
+  <li>📝 I write articles on <a href="https://medium.com/@prantoamt" target="blank">Medium</a>.</li>
   <ul>
     <li> <a href="https://medium.com/analytics-vidhya/entropy-calculation-information-gain-decision-tree-learning-771325d16f?source=rss-2c223e041f5b------2">Entropy Calculation, Information Gain &amp; Decision Tree Learning</a></li>
     <li> <a href="https://medium.com/nsuacmsc/data-path-explained-2f4de926446b?source=rss-2c223e041f5b------2">Data-Path Explained</a> </li>
