@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Badiuzzaman Pranto</h1>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="42%"/>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="45%"/>
 
 <h3 align="left">About Me</h3>
 <ul>
